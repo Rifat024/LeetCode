@@ -1,4 +1,4 @@
-package Easy;
+package medium;
 
 import java.util.ArrayList;
 import java.util.HashMap;
